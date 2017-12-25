@@ -3,6 +3,6 @@
 ## Frequently Used commands
 
 git add  
-git commit -m "abc"
+git commit -m "abc"  
 git push  
 git pull 
